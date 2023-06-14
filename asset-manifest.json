@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/soundwaves/static/js/main.40c32a67.js",
-    "static/js/319.491fc2a9.js": "/soundwaves/static/js/319.491fc2a9.js",
+    "main.js": "/soundwaves/static/js/main.1406759e.js",
+    "static/js/319.da2de501.js": "/soundwaves/static/js/319.da2de501.js",
     "static/media/brown.mp3": "/soundwaves/static/media/brown.846f2da67b7a6691b933.mp3",
     "static/media/pink.mp3": "/soundwaves/static/media/pink.2254a1602645ac033072.mp3",
     "static/media/white.mp3": "/soundwaves/static/media/white.948e11264f5b746b7e12.mp3",
@@ -16,11 +16,11 @@
     "favicon-16.png": "/soundwaves/favicon-16.png",
     "manifest.json": "/soundwaves/manifest.json",
     "serve.json": "/soundwaves/serve.json",
-    "main.40c32a67.js.map": "/soundwaves/static/js/main.40c32a67.js.map",
-    "319.491fc2a9.js.map": "/soundwaves/static/js/319.491fc2a9.js.map"
+    "main.1406759e.js.map": "/soundwaves/static/js/main.1406759e.js.map",
+    "319.da2de501.js.map": "/soundwaves/static/js/319.da2de501.js.map"
   },
   "entrypoints": [
-    "static/js/319.491fc2a9.js",
-    "static/js/main.40c32a67.js"
+    "static/js/319.da2de501.js",
+    "static/js/main.1406759e.js"
   ]
 }
