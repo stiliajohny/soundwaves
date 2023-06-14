@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/soundwaves/static/js/main.db45b900.js",
+    "main.js": "/soundwaves/static/js/main.e0cd9ba3.js",
     "static/js/700.7335efcd.js": "/soundwaves/static/js/700.7335efcd.js",
     "static/media/brown.mp3": "/soundwaves/static/media/brown.846f2da67b7a6691b933.mp3",
     "static/media/pink.mp3": "/soundwaves/static/media/pink.2254a1602645ac033072.mp3",
     "static/media/white.mp3": "/soundwaves/static/media/white.948e11264f5b746b7e12.mp3",
     "static/media/background.png": "/soundwaves/static/media/background.e383379e211ad88eba94.png",
-    "static/media/pink.png": "/soundwaves/static/media/pink.5f1687e6dcd95e07e20a.png",
-    "static/media/white.png": "/soundwaves/static/media/white.134d8d728ce21327addb.png",
-    "static/media/brown.png": "/soundwaves/static/media/brown.763a01ed0831fa44b3e9.png",
+    "static/media/pink.png": "/soundwaves/static/media/pink.cb33363fff49d28dc57a.png",
+    "static/media/white.png": "/soundwaves/static/media/white.7b49c883bffff25bb653.png",
+    "static/media/brown.png": "/soundwaves/static/media/brown.f841269a1e2474039881.png",
     "static/media/Ionicons.ttf": "/soundwaves/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
     "favicon.ico": "/soundwaves/favicon.ico",
     "index.html": "/soundwaves/index.html",
@@ -16,11 +16,11 @@
     "favicon-16.png": "/soundwaves/favicon-16.png",
     "manifest.json": "/soundwaves/manifest.json",
     "serve.json": "/soundwaves/serve.json",
-    "main.db45b900.js.map": "/soundwaves/static/js/main.db45b900.js.map",
+    "main.e0cd9ba3.js.map": "/soundwaves/static/js/main.e0cd9ba3.js.map",
     "700.7335efcd.js.map": "/soundwaves/static/js/700.7335efcd.js.map"
   },
   "entrypoints": [
     "static/js/700.7335efcd.js",
-    "static/js/main.db45b900.js"
+    "static/js/main.e0cd9ba3.js"
   ]
 }
