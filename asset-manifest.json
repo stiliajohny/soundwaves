@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/soundwaves/static/js/main.dd94a7c3.js",
-    "static/js/319.491fc2a9.js": "/soundwaves/static/js/319.491fc2a9.js",
+    "main.js": "/soundwaves/static/js/main.c7062555.js",
+    "static/js/669.8ecba2de.js": "/soundwaves/static/js/669.8ecba2de.js",
     "static/media/brown.mp3": "/soundwaves/static/media/brown.846f2da67b7a6691b933.mp3",
     "static/media/pink.mp3": "/soundwaves/static/media/pink.2254a1602645ac033072.mp3",
     "static/media/white.mp3": "/soundwaves/static/media/white.948e11264f5b746b7e12.mp3",
@@ -10,17 +10,18 @@
     "static/media/white.png": "/soundwaves/static/media/white.9544d7657eb614ed33e8.png",
     "static/media/brown.png": "/soundwaves/static/media/brown.c8ceb93cbc4df5dea59f.png",
     "static/media/Ionicons.ttf": "/soundwaves/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
+    "static/media/FontAwesome.ttf": "/soundwaves/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
     "favicon.ico": "/soundwaves/favicon.ico",
     "index.html": "/soundwaves/index.html",
     "favicon-32.png": "/soundwaves/favicon-32.png",
     "favicon-16.png": "/soundwaves/favicon-16.png",
     "manifest.json": "/soundwaves/manifest.json",
     "serve.json": "/soundwaves/serve.json",
-    "main.dd94a7c3.js.map": "/soundwaves/static/js/main.dd94a7c3.js.map",
-    "319.491fc2a9.js.map": "/soundwaves/static/js/319.491fc2a9.js.map"
+    "main.c7062555.js.map": "/soundwaves/static/js/main.c7062555.js.map",
+    "669.8ecba2de.js.map": "/soundwaves/static/js/669.8ecba2de.js.map"
   },
   "entrypoints": [
-    "static/js/319.491fc2a9.js",
-    "static/js/main.dd94a7c3.js"
+    "static/js/669.8ecba2de.js",
+    "static/js/main.c7062555.js"
   ]
 }
