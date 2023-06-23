@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.js": "/soundwaves/static/js/main.5266dd59.js",
-    "static/js/669.8ecba2de.js": "/soundwaves/static/js/669.8ecba2de.js",
+    "main.js": "/soundwaves/static/js/main.b319b442.js",
+    "static/js/78.2f7b44e6.js": "/soundwaves/static/js/78.2f7b44e6.js",
     "static/media/brown.mp3": "/soundwaves/static/media/brown.846f2da67b7a6691b933.mp3",
     "static/media/pink.mp3": "/soundwaves/static/media/pink.2254a1602645ac033072.mp3",
     "static/media/white.mp3": "/soundwaves/static/media/white.948e11264f5b746b7e12.mp3",
     "static/media/background.png": "/soundwaves/static/media/background.99452cea0f680801db1a.png",
-    "static/media/pink.png": "/soundwaves/static/media/pink.9ca43f2fc1b7fe75aec2.png",
-    "static/media/white.png": "/soundwaves/static/media/white.9544d7657eb614ed33e8.png",
-    "static/media/brown.png": "/soundwaves/static/media/brown.c8ceb93cbc4df5dea59f.png",
     "static/media/Ionicons.ttf": "/soundwaves/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
     "static/media/FontAwesome.ttf": "/soundwaves/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
     "favicon.ico": "/soundwaves/favicon.ico",
+    "static/media/white.png": "/soundwaves/static/media/white.9544d7657eb614ed33e8.png",
+    "static/media/brown.png": "/soundwaves/static/media/brown.c8ceb93cbc4df5dea59f.png",
+    "static/media/pink.png": "/soundwaves/static/media/pink.9ca43f2fc1b7fe75aec2.png",
     "index.html": "/soundwaves/index.html",
     "favicon-32.png": "/soundwaves/favicon-32.png",
     "favicon-16.png": "/soundwaves/favicon-16.png",
     "manifest.json": "/soundwaves/manifest.json",
     "serve.json": "/soundwaves/serve.json",
-    "main.5266dd59.js.map": "/soundwaves/static/js/main.5266dd59.js.map",
-    "669.8ecba2de.js.map": "/soundwaves/static/js/669.8ecba2de.js.map"
+    "main.b319b442.js.map": "/soundwaves/static/js/main.b319b442.js.map",
+    "78.2f7b44e6.js.map": "/soundwaves/static/js/78.2f7b44e6.js.map"
   },
   "entrypoints": [
-    "static/js/669.8ecba2de.js",
-    "static/js/main.5266dd59.js"
+    "static/js/78.2f7b44e6.js",
+    "static/js/main.b319b442.js"
   ]
 }
