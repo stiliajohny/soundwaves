@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/soundwaves/static/js/main.b319b442.js",
+    "main.js": "/soundwaves/static/js/main.73ed52f9.js",
     "static/js/78.2f7b44e6.js": "/soundwaves/static/js/78.2f7b44e6.js",
     "static/media/brown.mp3": "/soundwaves/static/media/brown.846f2da67b7a6691b933.mp3",
     "static/media/pink.mp3": "/soundwaves/static/media/pink.2254a1602645ac033072.mp3",
@@ -17,11 +17,11 @@
     "favicon-16.png": "/soundwaves/favicon-16.png",
     "manifest.json": "/soundwaves/manifest.json",
     "serve.json": "/soundwaves/serve.json",
-    "main.b319b442.js.map": "/soundwaves/static/js/main.b319b442.js.map",
+    "main.73ed52f9.js.map": "/soundwaves/static/js/main.73ed52f9.js.map",
     "78.2f7b44e6.js.map": "/soundwaves/static/js/78.2f7b44e6.js.map"
   },
   "entrypoints": [
     "static/js/78.2f7b44e6.js",
-    "static/js/main.b319b442.js"
+    "static/js/main.73ed52f9.js"
   ]
 }
